@@ -33,7 +33,7 @@ def dividir_arquivo(arquivo_original, num_arquivos, linhas_por_arquivo):
 
 # Exemplo de uso
 arquivo = "Spanish.txt"
-num_arquivos = 10
-linhas_por_arquivo = 55007
+num_arquivos = 26
+linhas_por_arquivo = 21157
 
 dividir_arquivo(arquivo, num_arquivos, linhas_por_arquivo)
